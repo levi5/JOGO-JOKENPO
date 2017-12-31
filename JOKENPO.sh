@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Levi Prudêncio Araújo Neto
 
 itens=("Pedra" "Papel" "Tesoura")  #Declaração de uma lista em shell
 x=0;
